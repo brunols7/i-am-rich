@@ -40,7 +40,12 @@ class HomePage extends StatelessWidget {
                       ),
                     ],
                   ),
-                  child: Icon(Icons.diamond, color: Color(0xFF58ccfc), size: 64),
+                  child: Image.asset(
+                    'assets/gems.png',
+                    errorBuilder: (context, error, stackTrace) {
+                      return const Icon(Icons.diamond, size:64, color: Color(0xFF58ccfc));
+                    }
+                  ),
                 ),
               ],
             ),
