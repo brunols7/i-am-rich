@@ -1,16 +1,8 @@
-# myapp
 
-A new Flutter project.
+# I Am Rich 💎
 
-## Getting Started
+### English
+"I Am Rich" is a simple Flutter application inspired by the infamous app from the App Store. It serves no functional purpose other than displaying a luxurious gem and demonstrating one's ability to afford it. This project was developed as part of my Flutter learning journey, exploring UI design, app publishing, and basic project structuring.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Português
+"I Am Rich" é um aplicativo simples em Flutter, inspirado no infame app da App Store. Ele não possui nenhuma funcionalidade além de exibir uma gema luxuosa e demonstrar a capacidade de adquiri-la. Este projeto foi desenvolvido como parte dos meus estudos em Flutter, explorando design de UI, publicação de apps e estruturação básica de projetos.
